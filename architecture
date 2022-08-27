@@ -1,0 +1,18 @@
+-------------------
+|   MathDisplay   |
+-------------------
+        |
+        |
+        |
+        |
+        V
+-------------------
+|     MathForm    |
+-------------------
+
+MathForm will be a child of MathDisplay
+
+MathForm will send the expression to be evaluated, along with the boundaries for evaluation
+Once the display gets this information, it will render the graph
+Submission will be done by button click
+the index component will be used to decide which type of graph will be used
