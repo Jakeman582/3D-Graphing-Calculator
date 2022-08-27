@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import "../styles/text.css";
 import * as math from 'mathjs'
 import * as Three from 'three';
 import SpriteText from 'three-spritetext';
